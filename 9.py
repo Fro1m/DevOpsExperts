@@ -8,10 +8,15 @@ numbers = [
     743, 527
 ]
 
-for i in range(len(numbers)):
+aaa = "bbb"
+
+for i in range(len(numbers)): #blabla
     if (numbers[i] % 2) == 0:
         print(numbers[i])
 
-    if numbers[i] == 237:
+    if numbers[i] == 237: #coomecnt
         break
+
+
+
 
